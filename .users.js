@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Youtube userscript
 // @namespace    http://tampermonkey.net/
-// @version      2025-12-11
+// @version      1.0.0
 // @description  try and improve some youtube controls
 // @author       Tamas Varga
 // @homepageURL  https://github.com/TomVarga/Youtube-userscript
