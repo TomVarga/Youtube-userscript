@@ -4,6 +4,7 @@
 // @version      2025-12-11
 // @description  try and improve some youtube controls
 // @author       Tamas Varga
+// @homepageURL  https://github.com/TomVarga/Youtube-userscript
 // @match        https://www.youtube.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
